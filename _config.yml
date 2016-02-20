@@ -1,0 +1,28 @@
+name: OpenWindow
+favicon: null
+layout_spectrum: 0.4261112427338958
+typography_spectrum: 0.19911123206838965
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.21244609612040222
+  lightness: 0.8411986967548728
+  saturation: 0.06056224484927952
+  rhythmicContrast: 0.8864216122310609
+purpose: []
